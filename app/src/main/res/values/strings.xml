@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">foodrecipes</string>
+    <string-array name="foo_list">
+        <item>Pizza Napoletana</item>
+        <item>Lasagna </item>
+        <item>Ossobuco alla Milanese</item>
+        <item>Gelato</item>
+        <item>Panzanella</item>
+    </string-array>
+    <string-array name="brief_description">
+        <item>
+            There are so many fantastic traditional dishes in Italy,
+            but perhaps no other sums up the very essence of Italian cooking better than Pizza Napoletana.
+            History, simplicity, and fresh, high-quality ingredients –
+            all come together to create what many consider the perfect and most authentic type of pizza.
+        </item>
+        <item>
+            One of the world’s oldest pasta recipes, lasagna (or lasagne in Italian) is a traditional Italian comfort food made by alternating layers of pasta sheets,
+            meat, sauce, and cheese.
+        </item>
+        <item>
+            A hearty, flavorful Milanese specialty, ossobuco consists of veal shanks cooked slowly in white wine, meat broth, and vegetables.
+            The traditional recipe, born probably in the late 19th century in one of the city’s neighborhood osterie,
+            doesn’t include tomatoes and is finished with gremolata,
+            a fresh seasoning made with lemon zest, garlic, and parsley.
+        </item>
+        <item>Italians haven’t invented the ice cream, but they certainly perfected the process over the centuries. The history of Italian gelato dates back to the Renaissance period, but who exactly created the creamy frozen dessert no one knows.</item>
+        <item>A staple of Tuscan cuisine, or better yet, Italy’s “cucina povera”, panzanella is a healthy, delicious bread and tomato salad usually served in central Italy during the hot summer months. A classic peasant dish, it has its origins in the green fields of Tuscany, where farmers had to rely on locally grown produce to feed themselves while working.</item>
+    </string-array>
+</resources>
